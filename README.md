@@ -13,5 +13,5 @@ The project evaluates Landsec's operational resilience, balance sheet deleveragi
 * **Investment Conclusion:** Derived an intrinsic fair value of **672.16p per share**, highlighting an **18% discount (margin of safety)** against current market levels and resulting in a **Buy** recommendation.
 
 ## Repository Contents
-* `Landsec_Valuation_Report.pdf`: Full academic research report.
-* `Financial_Model.xlsx`: Detailed forecast and valuation workbook (if uploaded).
+* `Landsec-PLC-Valuation.pdf`: Full academic research report.
+* `Landsec-PLC-Valuation-Excel.xlsx`: Detailed forecast and valuation workbook.
